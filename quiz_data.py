@@ -19,7 +19,7 @@ quiz_data = [
      "choices":["High-performance computing", "Artificial Intelligence research", "Educational purposes", "Game development"],
      "answer":"Educational purposes"
 }]
-
+ 
 
 
 
